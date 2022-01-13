@@ -2,7 +2,7 @@
 
 <!--
 **RomixHigu/RomixHigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://imgur.com/g5gPqGQ">
+<img src="https://imgur.com/g5gPqGQ?raw=true">
 
 Here are some ideas to get you started:
 
